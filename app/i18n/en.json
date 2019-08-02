@@ -1,0 +1,29 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "dashboardScreen": {
+    "header": "Welcome to Restaurant 1.0"
+  },
+  "redeemScreen": {
+    "header": "Welcome to Restaurant 1.0"
+  },
+  "scannerScreen": {
+    "header": "Welcome to Restaurant 1.0"
+  },
+  "summaryScreen": {
+    "header": "Coupon Transaction"
+  },
+  "qrScreen": {
+    "header": "Coupon Transaction"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}

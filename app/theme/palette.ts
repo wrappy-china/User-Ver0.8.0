@@ -1,0 +1,22 @@
+export const palette = {
+  black: "#1d1d1d",
+  white: "#ffffff",
+  offWhite: "#e6e6e6",
+  orange: "#FBA928",
+  orangeDarker: "#EB9918",
+  lightGrey: "#939AA4",
+  lighterGrey: "#CDD4DA",
+  lightBlue: "#5B9EF0",
+  charcoalGrey: "#38454C",
+  slateGrey: "#59666C",
+  blue: "#305FDA",
+  angry: "#dd3333",
+  paleGray: "#F5F7FC",
+  steelBlue: "#538898",
+  uglyBlue: "#33676F",
+  mutedGray: "#E0E0E0",
+  pastelRed: "#E25E6A",
+  dullTeal:  "#56A78D",
+  gradientGreen: ['#023427', '#1B6971', '#3EBBD5'],
+  gradientBlue: ['#051E5A', '#153D73', '#2F72A0', '#3EBBD5']
+}
